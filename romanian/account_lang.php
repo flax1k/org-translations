@@ -28,4 +28,4 @@ $lang['account_no_activate']	= "N-ai primit niciun email?";
 $lang['account_verify']			= "Verifica";
 $lang['account_verify_code']	= "Cod De Verificare";
 $lang['account_please_verify']	= "Verificati casuta de email pentru codul de verificare si introduceti-l aici.";
-$lang['account_verify_sent']	= "Confirmarea nu a fost trimisa la %s"; // %s este adresa ta de email, please always include it
+$lang['account_verify_sent']	= "Confirmarea nu a fost trimisa la %s"; // %s este adresa ta de email, include-o intotdeauna
