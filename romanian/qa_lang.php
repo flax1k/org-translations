@@ -1,53 +1,53 @@
 <?php
 // Categories.
 $lang['qa_desktop']                     = 'Desktop';
-$lang['qa_customization']               = 'Customization';
+$lang['qa_customization']               = 'Customizare';
 $lang['qa_hardware']                    = 'Hardware';
-$lang['qa_installation']                = 'Installation';
-$lang['qa_networking']                  = 'Networking';
+$lang['qa_installation']                = 'Instalare';
+$lang['qa_networking']                  = 'Retea';
 $lang['qa_totem']                       = 'Totem';
 $lang['qa_empathy']                     = 'Empathy';
 $lang['qa_geary']                       = 'Geary';
 $lang['qa_dexter']                      = 'Dexter';
 $lang['qa_lingo']                       = 'Lingo';
-$lang['qa_files']                       = 'Files';
+$lang['qa_files']                       = 'Fisiere';
 $lang['qa_maya']                        = 'Maya';
 $lang['qa_midori']                      = 'Midori';
 $lang['qa_noise']                       = 'Noise';
 $lang['qa_plank']                       = 'Plank';
 $lang['qa_scratch']                     = 'Scratch';
-$lang['qa_shotwell']                    = 'Shotwell';
+$lang['qa_shotwell']                    = 'Capturi';
 $lang['qa_terminal']                    = 'Terminal';
-$lang['qa_rumors']                      = 'Rumors';
+$lang['qa_rumors']                      = 'Zvonuri';
 $lang['qa_website']                     = 'Website';
-$lang['qa_other']                       = 'Other';
+$lang['qa_other']                       = 'Altele';
 
-$lang['qa_spport_tag']					= "Get help with elementary";
-$lang['qa_tagline']						= "Community Q&amp;A";
+$lang['qa_spport_tag']					= "Ajuta cu elementary";
+$lang['qa_tagline']						= "Comunitate I&amp;R";
 
 //overview statuses
-$lang['qa_unsolved']					= "Unsolved";
-$lang['qa_solved']						= "Solved";
-$lang['qa_all_questions']				= "All Questions";
-$lang['qa_newest']						= "Newest";
-$lang['qa_highest_vote']				= "Highest Vote";
-$lang['qa_answer_question']				= "Answer the question here";
-$lang['qa_block_questioner']			= "Block Questioner";
+$lang['qa_unsolved']					= "Nerezolvat";
+$lang['qa_solved']						= "Rezolvat";
+$lang['qa_all_questions']				= "Toate intrebarile";
+$lang['qa_newest']						= "Cele mai noi";
+$lang['qa_highest_vote']				= "Cele mai votate";
+$lang['qa_answer_question']				= "Raspunde la intrebare aici";
+$lang['qa_block_questioner']			= "Blocheaza-l pe cel ce intreaba";
 
 //create new question
-$lang['qa_report_problem']				= "Are you trying to report a Problem?";
-$lang['qa_problem_os']					= "Report a Problem with elementary OS";
-$lang['qa_problem_website']				= "Report a Problem with The Website";
-$lang['qa_sendmsg']						= "Send me a message when my question is answered";
-$lang['qa_your_question']				= "Your Question";
-$lang['qa_details']						= "Question details go here. Include anything that might help answer your question.";
+$lang['qa_report_problem']				= "Incerci sa raportezi o problema?";
+$lang['qa_problem_os']					= "Raporteaza o problema cu elementary OS";
+$lang['qa_problem_website']				= "Raporteaza o problema cu The Website";
+$lang['qa_sendmsg']						= "Trimite-mi un mesaj cand intrebarea mea primeste raspuns";
+$lang['qa_your_question']				= "Intrebarea ta";
+$lang['qa_details']						= "Detaliile intrebarii se pun aici. Include orice ce ar putea sa ajute la raspunsul intrebarii tale.";
 
 //single question
-$lang['qa_view_all_sol']				= "Click here to view all the solutions to this question";
-$lang['qa_type_question']				= "Type a Question...";
-$lang['qa_locked']                      = "Locked";
-$lang['qa_toggle_comments']             = "Toggle Comments";
-$lang['qa_mark_solution']               = "Mark as Solution";
+$lang['qa_view_all_sol']				= "Apasa aici pentru a vizualiza toate solutiile la aceasta intrebare";
+$lang['qa_type_question']				= "Tasteaza o intrebare...";
+$lang['qa_locked']                      = "Blocat";
+$lang['qa_toggle_comments']             = "Comuta comentarii";
+$lang['qa_mark_solution']               = "Marcheaza ca solutie";
 
 
 //more general bits
