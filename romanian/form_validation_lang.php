@@ -2,33 +2,33 @@
 
 //The first %s is the field name, please always include it
 
-$lang['required']			= "The %s field is required.";
-$lang['isset']				= "The %s field must have a value.";
-$lang['valid_email']		= "The %s field must contain a valid email address.";
-$lang['valid_emails']		= "The %s field must all contain valid email addresses.";
-$lang['valid_url']			= "The %s field must contain a valid URL.";
-$lang['valid_ip']			= "The %s field must contain a valid IP.";
-$lang['min_length']			= "The %s field must be at least %s characters in length.";
-$lang['max_length']			= "The %s field can not exceed %s characters in length.";
-$lang['exact_length']		= "The %s field must be exactly %s characters in length.";
-$lang['alpha']				= "The %s field may only contain alphabetical characters.";
-$lang['alpha_numeric']		= "The %s field may only contain alpha-numeric characters.";
-$lang['alpha_dash']			= "The %s field may only contain alpha-numeric characters, underscores, and dashes.";
-$lang['numeric']			= "The %s field must contain only numbers.";
-$lang['is_numeric']			= "The %s field must contain only numeric characters.";
-$lang['integer']			= "The %s field must contain an integer.";
-$lang['regex_match']		= "The %s field is not in the correct format.";
-$lang['matches']			= "The %s field does not match the %s field.";
-$lang['is_unique'] 			= "That %s is already in use, please try something different.";
+$lang['required']			= "Campul %s este obligatoriu.";
+$lang['isset']				= "Campul %s trebuie sa aibe o valoare.";
+$lang['valid_email']		= "Campul %s trebuie sa contina o adresa de email valida.";
+$lang['valid_emails']		= "Campul %s trebuie sa contina toate adresele de email valide.";
+$lang['valid_url']			= "Campul %s trebuie sa contina un URL valid.";
+$lang['valid_ip']			= "Campul %s trebuie sa contina o adresa IP valida.";
+$lang['min_length']			= "Campul %s trebuie sa fie de cel putin %s caractere lungime.";
+$lang['max_length']			= "Campul %s nu poate depasi %s caractere in lungime.";
+$lang['exact_length']		= "Campul %s trebuie sa fie exact de %s caractere lungime.";
+$lang['alpha']				= "Campul %s poate contine doar caractere alfabetice.";
+$lang['alpha_numeric']		= "Campul %s poate contine doar caractere alfa-numerice.";
+$lang['alpha_dash']			= "Campul %s poate contine doar caractere alfa-numerice, _ si -.";
+$lang['numeric']			= "Campul %s trebuie sa contina doar numere.";
+$lang['is_numeric']			= "Campul %s trebuie sa contina doar caractere numerice.";
+$lang['integer']			= "Campul %s trebuie sa contina un intreg.";
+$lang['regex_match']		= "Campul %s nu este in formatul corect.";
+$lang['matches']			= "Campul %s nu se potriveste cu campul %s.";
+$lang['is_unique'] 			= "Acel %s este deja utilizat, incearca te rugam ceva diferit.";
 $lang['modify_is_unique'] 	= $lang['is_unique'];
-$lang['is_natural']			= "The %s field must contain only positive numbers.";
-$lang['is_natural_no_zero']	= "The %s field must contain a number greater than zero.";
-$lang['decimal']			= "The %s field must contain a decimal number.";
-$lang['less_than']			= "The %s field must contain a number less than %s."; 		//Second %s is a number
-$lang['greater_than']		= "The %s field must contain a number greater than %s."; 	//Second %s is a number
-$lang['language_validate']	= "Alternate translations not available.";
-$lang['location_validate']	= "The location field may only contain alphabetic characters, commas, and full stops.";
-$lang['alpha_i18n']			= "The %s field may only contain alphabetic characters, including internationalization characters.";
+$lang['is_natural']			= "Campul %s trebuie sa contina doar numere pozitive.";
+$lang['is_natural_no_zero']	= "Campul %s trebuie sa contina un numar mai mare decat zero.";
+$lang['decimal']			= "Campul %s trebuie sa contina un numar zecimal.";
+$lang['less_than']			= "Campul %s trebuie sa contina un numar mai mic decat %s."; 		//Second %s is a number
+$lang['greater_than']		= "Campul %s trebuie sa contina un numar mai mare decat %s."; 	//Second %s is a number
+$lang['language_validate']	= "Traducere alternativa nu este disponibila.";
+$lang['location_validate']	= "Campul locatiei poate contine doar caractere alfabetice, virgula si punct.";
+$lang['alpha_i18n']			= "Campul %s poate contine doar caractere alfabetice, incluzand caracterele internationale.";
 
 /* End of file form_validation_lang.php */
 
